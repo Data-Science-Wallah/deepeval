@@ -3,6 +3,7 @@
 This project demonstrates how to evaluate the performance of a Retrieval-Augmented Generation (RAG) system using [DeepEval](https://github.com/confident-ai/deepeval), a powerful evaluation framework for LLM applications.
 
 ---
+Youtube Video Link : [📌 YouTube Video](https://youtu.be/jUruugxSOZ0)
 
 ## 📌 What is DeepEval?
 
